@@ -27,9 +27,10 @@ I work across the full mobile stack — Dart and Flutter, Firebase Auth and Fire
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[KidsLearn AI](https://github.com/hanova-dev)** | Final Year Project. Turns a parent's description of a behaviour into an illustrated, narrated bilingual (English/Urdu) comic, then teaches the child to read from it. Custom phonetic pronunciation scoring engine (Double Metaphone + Levenshtein) and an offline-first sync conflict resolution engine. | Flutter · Riverpod · Gemini · Cloud Speech-to-Text · SQLite · Firebase |
-| **[BoloBill](https://github.com/hanova-dev/BoloBill)** | Voice-first billing and khata (credit ledger) app for retailers who can't type. Push-to-talk Urdu/Roman Urdu input with a custom slot parser for item, quantity, unit and price. Offline-first, zero paid APIs. | Flutter · Dart · SQLite · On-device ASR |
-| **[SmartWallet](https://github.com/hanova-dev)** | AI personal-finance app built for how money actually moves in Pakistan — cash, bank SMS, mobile wallets. Receipt OCR with a Gemini vision fallback, AES-256 encrypted local storage, cash-flow forecasting. | Flutter · Riverpod · Hive · ML Kit · Gemini |
+| **[BoloBill](https://github.com/hanova-dev/BoloBill)** | Voice-first billing and khata (credit ledger) app for retailers who can't type. Custom slot parser for Urdu/Roman Urdu speech, AES-256 encrypted local DB, offline-first Firestore sync, thermal receipt printing. | Flutter · Riverpod · SQLCipher · Firebase |
+| **[AAGAHI](https://github.com/hanova-dev/AAGAHI-)** | Flash-drought early warning for smallholder farmers in Pakistan. Offline-first, voice-native Flutter client + Python Earth Engine pipeline with a LightGBM onset-detection model. | Flutter · Python · Google Earth Engine · LightGBM |
+| **KidsLearn AI** | Final Year Project. Turns a parent's description of a behaviour into an illustrated, narrated bilingual (English/Urdu) comic, then teaches the child to read from it. Custom phonetic pronunciation scoring engine (Double Metaphone + Levenshtein). | Flutter · Riverpod · Gemini · Cloud Speech-to-Text |
+| **[Expense Tracker](https://github.com/hanova-dev/Expense_Tracker_App)** | Offline-first personal expense tracker with 15+ currencies, interactive charts and budget tracking. Feature-first architecture. | Flutter · Riverpod · Hive · fl_chart |
 
 ---
 
@@ -48,7 +49,6 @@ I work across the full mobile stack — Dart and Flutter, Firebase Auth and Fire
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-5C6BC0?style=flat-square)
 ![BLoC](https://img.shields.io/badge/BLoC-42A5F5?style=flat-square)
-![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=flat-square&logo=materialdesign&logoColor=white)
 
 **Backend & Data** &nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -73,10 +73,10 @@ I work across the full mobile stack — Dart and Flutter, Firebase Auth and Fire
 
 ### Experience
 
+- **App Development Intern** — CodeAlpha *(Jun – Jul 2026, Remote)*
+  Built three Flutter applications against real-world project briefs — a fitness tracker, a flashcard quiz app and a random quote generator.
 - **Flutter Developer Intern** — DevelopersHub Corporation *(Jun – Jul 2025, Remote)*
   Built Android apps in Flutter with Firebase Auth, Cloud Firestore and REST API integration. Worked in Git with feature branching and pull request review.
-- **App Development Intern** — CodeAlpha *(2026)*
-  Flutter application development on real-world project briefs.
 
 ---
 
@@ -94,19 +94,3 @@ I work across the full mobile stack — Dart and Flutter, Firebase Auth and Fire
   <a href="https://www.linkedin.com/in/hananbinsaleh">LinkedIn</a> ·
   <a href="mailto:callmeabdulhanann@gmail.com">callmeabdulhanann@gmail.com</a>
 </p>
-## Hi there 👋
-
-<!--
-**hanova-dev/hanova-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
